@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Mercury",
+    "diameter_km": 4879,
+    "distance_from_sun_km": 57900000,
+    "rotation_period_hours": 1407.6,
+    "rotation_speed_kmh": 10.83,
+    "orbital_velocity_km_s": 47.87,
+    "radius": 5,
+    "distance_from_sun": 50,
+    "assets": "./assets/mercury.jpg",
+    "orbital_period_days": 88
+  },
+  {
+    "name": "Venus",
+    "diameter_km": 12104,
+    "distance_from_sun_km": 108200000,
+    "rotation_period_hours": -5832.5,
+    "rotation_speed_kmh": 6.52,
+    "orbital_velocity_km_s": 35.02,
+    "radius": 5,
+    "distance_from_sun": 75,
+    "assets": "./assets/venus.jpg",
+    "orbital_period_days": 225
+  },
+  {
+    "name": "Earth",
+    "diameter_km": 12742,
+    "distance_from_sun_km": 149600000,
+    "rotation_period_hours": 23.9,
+    "rotation_speed_kmh": 1670,
+    "orbital_velocity_km_s": 29.78,
+    "radius": 5,
+    "distance_from_sun": 100,
+    "assets": "./assets/earth.jpg",
+    "orbital_period_days": 365.25
+  },
+  {
+    "name": "Mars",
+    "diameter_km": 6779,
+    "distance_from_sun_km": 227900000,
+    "rotation_period_hours": 24.6,
+    "rotation_speed_kmh": 868.22,
+    "orbital_velocity_km_s": 24.07,
+    "radius": 5,
+    "distance_from_sun": 125,
+    "assets": "./assets/mars.jpg",
+    "orbital_period_days": 687
+  },
+  {
+    "name": "Jupiter",
+    "diameter_km": 139820,
+    "distance_from_sun_km": 778500000,
+    "rotation_period_hours": 9.9,
+    "rotation_speed_kmh": 45482,
+    "orbital_velocity_km_s": 13.07,
+    "radius": 5,
+    "distance_from_sun": 150,
+    "assets": "./assets/jupiter.jpg",
+    "orbital_period_days": 4333
+  },
+  {
+    "name": "Saturn",
+    "diameter_km": 116460,
+    "distance_from_sun_km": 1434000000,
+    "rotation_period_hours": 10.7,
+    "rotation_speed_kmh": 35500,
+    "orbital_velocity_km_s": 9.69,
+    "radius": 5,
+    "distance_from_sun": 175,
+    "assets": "./assets/saturn.jpg",
+    "orbital_period_days": 10759
+  },
+  {
+    "name": "Uranus",
+    "diameter_km": 50724,
+    "distance_from_sun_km": 2871000000,
+    "rotation_period_hours": -17.2,
+    "rotation_speed_kmh": 9360,
+    "orbital_velocity_km_s": 6.81,
+    "radius": 5,
+    "distance_from_sun": 200,
+    "assets": "./assets/uranus.jpg",
+    "orbital_period_days": 30687
+  },
+  {
+    "name": "Neptune",
+    "diameter_km": 49244,
+    "distance_from_sun_km": 4495000000,
+    "rotation_period_hours": 16.1,
+    "rotation_speed_kmh": 9640,
+    "orbital_velocity_km_s": 5.43,
+    "radius": 5,
+    "distance_from_sun": 225,
+    "assets": "./assets/neptune.jpg",
+    "orbital_period_days": 60190
+  }
+]

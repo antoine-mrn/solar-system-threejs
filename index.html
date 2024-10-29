@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/vite.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Vite App</title>
+  </head>
+  <body>
+    <div id="app">
+      <nav class="time-scale-navbar">
+        <ul>
+          <li>
+            <button class="time-scale-navbar__button" data-scale="realTime">
+              Real time
+            </button>
+          </li>
+          <li>
+            <button class="time-scale-navbar__button" data-scale="oneDay">
+              1 day / sec
+            </button>
+          </li>
+          <li>
+            <button class="time-scale-navbar__button" data-scale="oneWeek">
+              1 week / sec
+            </button>
+          </li>
+          <li>
+            <button class="time-scale-navbar__button" data-scale="oneMonth">
+              1 month / sec
+            </button>
+          </li>
+          <li>
+            <button class="time-scale-navbar__button" data-scale="threeMonths">
+              3 months / sec
+            </button>
+          </li>
+          <li>
+            <button class="time-scale-navbar__button" data-scale="sixMonths">
+              6 months / sec
+            </button>
+          </li>
+          <li>
+            <button class="time-scale-navbar__button" data-scale="oneYear">
+              1 year / sec
+            </button>
+          </li>
+        </ul>
+      </nav>
+      <nav class="planet-name-navbar">
+        <ul>
+          <li class="planet-name-navbar__planet-name" data-planet="mercury">
+            Mercury
+          </li>
+          <li class="planet-name-navbar__planet-name" data-planet="venus">
+            Venus
+          </li>
+          <li class="planet-name-navbar__planet-name" data-planet="earth">
+            Earth
+          </li>
+          <li class="planet-name-navbar__planet-name" data-planet="mars">
+            Mars
+          </li>
+          <li class="planet-name-navbar__planet-name" data-planet="jupiter">
+            Jupiter
+          </li>
+          <li class="planet-name-navbar__planet-name" data-planet="saturn">
+            Saturn
+          </li>
+          <li class="planet-name-navbar__planet-name" data-planet="uranus">
+            Uranus
+          </li>
+          <li class="planet-name-navbar__planet-name" data-planet="neptune">
+            Neptune
+          </li>
+        </ul>
+      </nav>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
